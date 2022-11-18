@@ -1,30 +1,12 @@
 ---
-title: Dodo
+title: Você sabe o que faz um Web Designer?
 date: '2021-05-02'
-tags: ['multi-author', 'next-js', 'feature']
-draft: false
-summary: 'The blog template supports posts in nested sub-folders. This can be used to group posts of similar content e.g. a multi-part course. This post is itself an example of a nested route!'
+tags: ['criacao-de-site', 'next-js', 'feature']
+draft: falsestatus
+summary: 'Criação de Site feito por Web Designers'
 ---
 
-# Nested Routes
-
-The blog template supports posts in nested sub-folders. This helps in organisation and can be used to group posts of similar content e.g. a multi-part series. This post is itself an example of a nested route! It's located in the `/data/blog/nested-route` folder.
-
-## How
-
-Simplify create multiple folders inside the main `/data/blog` folder and add your `.md`/`.mdx` files to them. You can even create something like `/data/blog/nested-route/deeply-nested-route/my-post.md`
-
-We use Next.js catch all routes to handle the routing and path creations.
-
-## Use Cases
-
-Here are some reasons to use nested routes
-
-- More logical content organisation (blogs will still be displayed based on the created date)
-- Multi-part posts
-- Different sub-routes for each author
-- Internationalization (though it would be recommended to use [Next.js built-in i8n routing](https://nextjs.org/docs/advanced-features/i18n-routing))
-
-## Note
-
-- The previous/next post links at bottom of the template are currently sorted by date. One could explore modifying the template to refer the reader to the previous/next post in the series, rather than by date.
+Com a popularização da internet cresceu a necessidade de se apresentar páginas web com um melhor aspecto visual para comunicar os objetivos das instituições. A preocupação era de aplicar os fundamentos de design para sanar essa necessidade. Foi a partir daí que começou a surgir a carreira de Web Designer.
+O que vemos no cenário atual é que as pessoas cada vez mais utilizam-se da internet para não só buscar informações, mas para interagir socialmente, e também cada vez mais realizar compras pela praticidade que o sistema oferece.
+As empresas investem cada vez mais em presença online porque isso é imprescindível para alcançar um público cada vez mais adepto por tecnologia e sedento por novidades. Com isso a procura por Web Designers qualificados para atender essas empresas têm gerado bastante oportunidades e crescimento profissional.
+ #web #webdesign #programming #programmer #mapamental #xdplans #seo #marketing #marketingdigital #google
