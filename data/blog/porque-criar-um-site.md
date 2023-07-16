@@ -6,8 +6,6 @@ draft: false
 summary: 'Você já se perguntou por que tantas empresas, organizações e até indivíduos têm um site?'
 ---
 
-# Introdução
-
 Você já se perguntou por que tantas empresas, organizações e até indivíduos têm um site? Se você está pensando em criar um site para sua empresa, negócio ou projeto pessoal, você pode estar se perguntando se isso realmente vale a pena. Nesta postagem, vamos explorar alguns motivos pelos quais criar um site pode ser uma excelente ideia.
 
 # 1. Visibilidade
